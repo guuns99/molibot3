@@ -1,0 +1,24 @@
+{
+   "sessionName": "molibot",
+   "ownerNumber": "6285772298366@s.whatsapp.net",
+   "ownerName": "Moli",
+   "botName": "Molly Bot",
+   "footer": "MollyBot © 2022",
+   "butName": "Instagram",
+   "butLink": "https://www.instagram.com/imolly_shop/",   
+   "pathThumb": "./temp/logo.jpg",
+   "pathQris": "./temp/qris.jpg",
+   "packname": "IG :",
+   "author": "molly",
+   "mess": {
+    "wait": "*Tunggu permintaan anda sedang diproses!*",
+    "error": "*Maaf terjadi kesalahan!*",
+    "lv": "Link yang kamu berikan tidak valid",
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
+    "OnlyPrem": "Perintah ini khusus member premium"
+   }
+}
